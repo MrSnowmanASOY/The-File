@@ -1,0 +1,16 @@
+Hello this is a basic instruction manual on how this works
+
+1. To start the program you will need to open the file titled "Number 1.bat"
+
+2. when you open this file you will be greeted with a loading screen at this time make the file full screen
+!!! DO NOT TYPE DURING LOADING !!!
+
+3. when all loading is done you should be greeted with a screen that says
+(.__.) So what do you want me to do?       
+       (screen will flash red when you get a line wrong)          
+       (type list for a list of commands)
+
+
+note you will need to type out commands or text options exactly the way they are typed in the list
+
+There are hidden commands
